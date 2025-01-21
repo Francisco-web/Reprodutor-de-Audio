@@ -30,3 +30,14 @@ Principais Funcionalidades:
    - Define o volume da música, onde 1.0 é o volume máximo e 0.0 é mudo.
    pygame.mixer.music.set_volume(0.5)  # Volume em 50%
    
+Como usar rodar(compilar) o programa no seu computador?
+
+   1º Passo: instalar a versão recente do python na sua máquina no site oficial (https://www.python.org/downloads/)
+      Se precisar ajuda para instalar, o professor Gustavo Guanabara pode ajudar - https://www.youtube.com/watch?v=VuKvR1J2LQE&pp=ygUjY29tbyBpbnN0YWxhciBweXRob24gY3Vyc28gZW0gdmlkZW8%3D
+   2º Passo: Se desejar pode criar um ambiente virtual ao desenvolver, da uma pesquisado como fazer isso com python
+      link: https://www.youtube.com/watch?v=lTN92QCUnC0&pp=ygUwY3JpYXIgdW0gYW1iaWVudGUgdmlydHVhbCBhbyBkZXNlbnZvbHZlciBweXRob24g
+   3º Passo: Instalar a biblioteca Pygame
+      pip install pygame
+      link: https://www.youtube.com/watch?v=K2ogjKQeCa0
+      Também tem o site official, onde pode seguir a documentação.
+      link: https://www.pygame.org/wiki/GettingStarted#Pygame%20Installation
